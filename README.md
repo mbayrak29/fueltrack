@@ -1,73 +1,70 @@
-# Welcome to your Lovable project
+FuelTrack 🚗⛽⚡
 
-## Project info
+Unified Fuel & EV Price Tracking and Route Cost Planner
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+FuelTrack is a fully functional web application developed as a Final Term MVP Project for
+CITF1003 – Introduction to Information Technologies and Applications.
 
-## How can I edit this code?
+The application helps users track fuel and EV charging prices, compare costs by fuel type, and estimate intercity route expenses using real user inputs.
 
-There are several ways of editing your application.
+🎯 Project Objective
 
-**Use Lovable**
+The goal of this project is to deliver a live, cloud-hosted MVP that solves a real-world problem related to fuel cost optimization and route planning, while demonstrating:
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+Cloud deployment
 
-Changes made via Lovable will be committed automatically to this repo.
+Database-backed persistence
 
-**Use your preferred IDE**
+User authentication
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+CRUD operations
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Professional version control (GitHub)
 
-Follow these steps:
+🚀 Key Features
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Fuel stations supporting multiple fuel types (Gasoline, Diesel, LPG)
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Fuel-type-based price comparison and cheapest station detection
 
-# Step 3: Install the necessary dependencies.
-npm i
+EV charging station tracking (price per kWh, charger type, power)
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Route Cost Planner with intercity distance and fuel cost estimation
 
-**Edit a file directly in GitHub**
+User authentication (Login & Signup)
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Persistent cloud database (data remains after refresh)
 
-**Use GitHub Codespaces**
+Fully deployed public web application
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+🧠 Core Design Logic
 
-## What technologies are used for this project?
+Email: fueltrack@gmail.com
 
-This project is built with:
+Password: fueltrack
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+🛠️ Technology Stack
 
-## How can I deploy this project?
+Frontend: React, TypeScript, Vite
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+UI: Tailwind CSS, shadcn/ui
 
-## Can I connect a custom domain to my Lovable project?
+Backend & Auth: Supabase
 
-Yes, you can!
+Hosting: Lovable.dev (cloud deployment)
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+Version Control: Git & GitHub
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+📦 Development & Source Code
+
+This project was developed using Lovable.dev, an AI-assisted full-stack development platform.
+
+All source code is available in this public GitHub repository
+
+Changes made via Lovable are automatically committed
+
+The project can also be run locally using Node.js and npm
+
+📌 Academic Note
+
+This application was developed individually as part of a university course assignment and represents an original implementation of an MVP-level software product.
