@@ -39,6 +39,8 @@ Fully deployed public web application
 
 🧠 Core Design Logic
 
+https://power-price-finder.lovable.app
+
 Email: fueltrack@gmail.com
 
 Password: fueltrack
